@@ -1,3 +1,5 @@
+website : https://kiromiaw.nekoweb.org/
+
 <h1>programming languages i can use</h1>
 <hl>
 <p>
@@ -12,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=vscodium,vim,neovim,linux,arch,bun," />
   </a>
 </p>
-<h1>General skills</h1>
+<h1>general skills</h1>
 <hl>
 <p>
   <a href="https://skillicons.dev">
