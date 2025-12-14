@@ -1,6 +1,6 @@
 website : https://kiromiaw.nekoweb.org/
 
-<h1>programming languages i can use</h1>
+<h1>programming languages/tools i can use</h1>
 <hl>
 <p>
   <a href="https://skillicons.dev">
