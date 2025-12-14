@@ -4,14 +4,14 @@ website : https://kiromiaw.nekoweb.org/
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,lua,rust,svelte,vite,tauri,godot,typescript,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,lua,rust,svelte,vite,tauri,godot,typescript,js,html,css,bun" />
   </a>
 </p>
 <h1>what i use to program</h1>
   <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodium,vim,neovim,linux,arch,bun," />
+    <img src="https://skillicons.dev/icons?i=vscodium,vim,neovim,linux,arch," />
   </a>
 </p>
 <h1>general skills</h1>
